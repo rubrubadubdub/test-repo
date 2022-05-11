@@ -1,2 +1,3 @@
 # test-repo
-Test 2
+This is my first GitHub repo!
+Hello Mr Odin.
